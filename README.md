@@ -1,5 +1,7 @@
 # COVID19-Data-Analysis
 Coursera Guided Project
+
+
 Project Structure
 The hands on project on COVID19 Data Analysis using Python is divided into following tasks:
 
